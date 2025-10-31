@@ -1,7 +1,7 @@
 <h1 align="center">Menu de Suporte Técnico – Automação em Batcht</h1>			
 <br>
 <h4 align="center"> 💻 Em produção 💻 </h4>
-<h3 align="center">Botão de ajuda dos equipamentos Cisco room kit</h3>
+<h3 align="center">Ferramenta batch para automação de atividades do suporte técnico</h3>
 
 Tabela de conteúdos
 =================
